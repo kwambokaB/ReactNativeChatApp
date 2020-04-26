@@ -5,7 +5,7 @@ export const Button = StyleSheet.create({
     button: {
         display:'flex',
         height: 50,
-        borderRadius: 5,
+        borderRadius: 100 / 2,
         paddingLeft: 20,
         paddingRight: 20,
         justifyContent:'center',

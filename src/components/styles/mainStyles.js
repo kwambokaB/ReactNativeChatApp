@@ -4,7 +4,7 @@
 
  export const main = StyleSheet.create({
      container: {
-         flex: 1,
+         flex:1,
          justifyContent: 'center',
          alignItems: 'center',
          backgroundColor: Color.palepurple   
@@ -17,7 +17,7 @@
      logo:{
         alignSelf: 'center',
         margin: 0.04 * Constants.screenHeight,
-        marginTop: 0.15 *  Constants.screenHeight,
+        marginTop: 0.01 *  Constants.screenHeight,
         height: 200,
         width:200,
         borderRadius: 200 / 2
