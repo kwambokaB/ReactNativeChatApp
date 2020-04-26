@@ -7,6 +7,8 @@ export const Color = {
     babyPowder: '#F7F7F2',
     white: '#FFFFFF',
     blackChocolate: '#261C15',
-    flame: '#F05D23'
+    flame: '#F05D23',
+    grey: 'rgb(228,224,238)'
+
 
 }
